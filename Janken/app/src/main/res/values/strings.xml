@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Janken</string>
+    <string name="janken_text">じゃん・けん・・・</string>
+    <string name="player_text">Player</string>
+    <string name="computer_text">Computer</string>
+    <string name="bach_text">戻る</string>
 </resources>
